@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("Hello Git!!!!!!!!!\n");
+	printf("Hello ƒuƒ‰ƒ“ƒ`!!!!!!!!!\n");
 
 	return 0;
 }
